@@ -1,0 +1,1 @@
+I am Currently working on EncryptoLock Project . EncryptoLock is a decentralized secure secret management solution designed to provide secure, transparent and efficient way to manage sensitive credentials.
